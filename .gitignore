@@ -1,0 +1,6 @@
+.coverage
+.idea
+last_test_coverage.txt
+git-status-bare.txt
+all_test_names.txt
+*.pyc

@@ -1,0 +1,4 @@
+sample/core.py tests/test_advanced.py
+sample/core.py tests/test_basic.py
+sample2/core.py tests2/test_advanced.py
+sample2/core.py tests2/test_basic.py
